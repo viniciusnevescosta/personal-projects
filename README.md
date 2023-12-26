@@ -24,7 +24,7 @@ Bem-vindo ao meu repositório de projetos pessoais! Aqui estão alguns projetos 
     
 3. 🌐 **[Pop Up using FormSubmit](https://github.com/viniciusnevescosta/formsubmit-popup):**
    - Tech Stack: JavaScript.
-   - Meu primeiro pacote público no NPM! Um pop-up customizável usando o FormSubmit, uma plataforma de entrega de e-mails gratuita.
+   - Um pop-up customizável usando o FormSubmit, uma plataforma de entrega de e-mails gratuita.
 
 ## Como Navegar pelos Projetos
 
